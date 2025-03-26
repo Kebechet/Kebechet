@@ -7,6 +7,8 @@
   <a align="center" href="https://stackoverflow.com/users/6158341/kebechet" target="_blank">
     <img src="https://stackoverflow.com/users/flair/6158341.png?theme=dark" width="208" height="58" alt="profile for Kebechet at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Kebechet at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
   </a>
+
+  <!--![counter](https://komarev.com/ghpvc/?username=Kebechet&color=5bcdec&style=for-the-badge)-->
 </div>
 
 
