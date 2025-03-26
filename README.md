@@ -2,7 +2,7 @@
   <h1 align="center">Hi, I'm Samuel</h1>
   <!--<h4 align="center">I'm a technical lead, a postgraduate researcher, a massive nerd, and an ardent defender of the Oxford comma.</h4>-->
 
-  <a align="center" href="https://stackoverflow.com/users/6158341/kebechet">
+  <a align="center" href="https://stackoverflow.com/users/6158341/kebechet" target="_blank">
     <img src="https://stackoverflow.com/users/flair/6158341.png?theme=dark" width="208" height="58" alt="profile for Kebechet at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Kebechet at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
   </a>
   
