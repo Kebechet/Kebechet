@@ -3,7 +3,7 @@
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Samuel%20Sidor-blue?logo=linkedin)](https://www.linkedin.com/in/samuel-sidor/)
   [![Stack Overflow](https://img.shields.io/badge/StackOverflow-Kebechet-F48024?logo=stackoverflow)](https://stackoverflow.com/users/6158341/kebechet)
-  [![NuGet](https://img.shields.io/badge/NuGet-Kebechet_70k%2B-004880?logo=nuget)](https://www.nuget.org/profiles/Kebechet)
+  [![NuGet](https://img.shields.io/badge/NuGet-Kebechet_100k%2B-004880?logo=nuget)](https://www.nuget.org/profiles/Kebechet)
   [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-donate-FFDD00?logo=buymeacoffee&logoColor=000)](https://www.buymeacoffee.com/kebechet)
 
   
