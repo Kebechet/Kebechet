@@ -22,23 +22,23 @@
 
 ## Current Projects
 
-* 💳 **[Kebechet.Maui.RevenueCat](https://github.com/Kebechet/Maui.RevenueCat.InAppBilling)** - RevenueCat for .NET MAUI (shared abstraction + Android/iOS bindings)
-* 📱 **[Kebechet.Maui.MicrosoftClarity](https://github.com/Kebechet/Maui.MicrosoftClarity)** - Microsoft Clarity for .NET MAUI (shared abstraction + Android/iOS bindings)
-* 👆 **[Kebechet.Blazor.EventHandlers.LongPress](https://github.com/Kebechet/Blazor.EventHandlers.LongPress)** - Contains `@onlongpress` Blazor event handler
-* 🖱️ **[Kebechet.Blazor.EventHandlers.ShortClick](https://github.com/Kebechet/Blazor.EventHandlers.ShortClick)** - Contains `@onshortclick` Blazor event handler
-* 📊 **[Kebechet.Blazor.ChartJS](https://github.com/Kebechet/Blazor.ChartJS)** - Simple wrapper around Chart.js
-* 🧱 **[Kebechet.Blazor.ClassBuilder](https://github.com/Kebechet/Blazor.ClassBuilder)** - ClassBuilder, StyleBuilder and AttributeBuilder for Blazor components
-* 🎨 **[Kebechet.Blazor.Tabler.Icons](https://github.com/Kebechet/Blazor.Tabler.Icons)** - Tabler Icons for Blazor
-* 🧠 **[Kebechet.Api.ToMcp](https://github.com/Kebechet/Api.ToMcp)** - C# source generator that turns ASP.NET Core endpoints into MCP tools
-* 🧾 **[Kebechet.Api.OData](https://github.com/Kebechet/Api.OData)** - Apply OData query options to `IQueryable` and `IEnumerable`
-* 🧰 **[Kebechet.Extensions.IsNullOrEmpty](https://github.com/Kebechet/Extensions.IsNullOrEmpty)** - `IsNullOrEmpty` for basic types and collections
-* 🧩 **[Kebechet.Types.ObservableHashSet](https://github.com/Kebechet/Types.ObservableHashSet)** - ObservableHashSet extracted from EF repo
-* ❤️ **[Kebechet.Maui.Health](https://github.com/Kebechet/Maui.Health)** - Health Connect + HealthKit wrapper (read/write + live workout tracking)
+* 💳 **[Maui.RevenueCat](https://github.com/Kebechet/Maui.RevenueCat.InAppBilling)** - RevenueCat for .NET MAUI (shared abstraction + Android/iOS bindings)
+* 📱 **[Maui.MicrosoftClarity](https://github.com/Kebechet/Maui.MicrosoftClarity)** - Microsoft Clarity for .NET MAUI (shared abstraction + Android/iOS bindings)
+* 👆 **[Blazor.EventHandlers.LongPress](https://github.com/Kebechet/Blazor.EventHandlers.LongPress)** - Contains `@onlongpress` Blazor event handler
+* 🖱️ **[Blazor.EventHandlers.ShortClick](https://github.com/Kebechet/Blazor.EventHandlers.ShortClick)** - Contains `@onshortclick` Blazor event handler
+* 📊 **[Blazor.ChartJS](https://github.com/Kebechet/Blazor.ChartJS)** - Simple wrapper around Chart.js
+* 🧱 **[Blazor.ClassBuilder](https://github.com/Kebechet/Blazor.ClassBuilder)** - ClassBuilder, StyleBuilder and AttributeBuilder for Blazor components
+* 🎨 **[Blazor.Tabler.Icons](https://github.com/Kebechet/Blazor.Tabler.Icons)** - Tabler Icons for Blazor
+* 🧠 **[Api.ToMcp](https://github.com/Kebechet/Api.ToMcp)** - C# source generator that turns ASP.NET Core endpoints into MCP tools
+* 🧾 **[Api.OData](https://github.com/Kebechet/Api.OData)** - Apply OData query options to `IQueryable` and `IEnumerable`
+* 🧰 **[Extensions.IsNullOrEmpty](https://github.com/Kebechet/Extensions.IsNullOrEmpty)** - `IsNullOrEmpty` for basic types and collections
+* 🧩 **[Types.ObservableHashSet](https://github.com/Kebechet/Types.ObservableHashSet)** - ObservableHashSet extracted from EF repo
+* ❤️ **[Maui.Health](https://github.com/Kebechet/Maui.Health)** - Health Connect + HealthKit wrapper (read/write + live workout tracking)
 
 ### Deprecated
 
-* 🪟 **[Kebechet.Blazor.Components.Popup](https://github.com/Kebechet/Blazor.Components.Popup)** - Simple reusable Popup component (deprecated)
-* 🧾 **[Kebechet.Blazor.Components.BottomSheet](https://github.com/Kebechet/Blazor.Components.BottomSheet)** - Simple reusable BottomSheet component (deprecated)
+* 🪟 **[Blazor.Components.Popup](https://github.com/Kebechet/Blazor.Components.Popup)** - Simple reusable Popup component (deprecated)
+* 🧾 **[Blazor.Components.BottomSheet](https://github.com/Kebechet/Blazor.Components.BottomSheet)** - Simple reusable BottomSheet component (deprecated)
 
 ## Support my work
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/kebechet)
