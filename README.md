@@ -45,9 +45,27 @@
 
 ## Activity
 
+<div align="center">
+
 <a align="center" href="https://stackoverflow.com/users/6158341/kebechet" target="_blank">
     <img src="https://stackoverflow.com/users/flair/6158341.png?theme=dark" width="208" height="58" alt="profile for Kebechet at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Kebechet at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
 </a>
 
+<p>
+  <img
+    src="https://streak-stats.demolab.com?user=Kebechet&hide_border=true&background=0b1220&ring=60a5fa&fire=22c55e&currStreakNum=cbd5e1&sideNums=cbd5e1&currStreakLabel=94a3b8&sideLabels=94a3b8&dates=64748b"
+    alt="Contribution Streak"
+    height="180"
+  />
+</p>
+
+<p>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Kebechet&bg_color=0b1220&color=cbd5e1&line=60a5fa&point=22c55e&area=true&area_color=1f2937&hide_border=true"
+    alt="Activity Graph"
+  />
+</p>
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kebechet&count_private=true&bg_color=232323&icon_color=1aff1a&title_color=1aff1a&text_color=ffffff&count_private=true)
- 
+
+</div>
