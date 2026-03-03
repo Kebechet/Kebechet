@@ -34,6 +34,8 @@
 * 🧰 **[Extensions.IsNullOrEmpty](https://github.com/Kebechet/Extensions.IsNullOrEmpty)** - `IsNullOrEmpty` for basic types and collections
 * 🧩 **[Types.ObservableHashSet](https://github.com/Kebechet/Types.ObservableHashSet)** - ObservableHashSet extracted from EF repo
 * ❤️ **[Maui.Health](https://github.com/Kebechet/Maui.Health)** - Health Connect + HealthKit wrapper (read/write + live workout tracking)
+* 🔐 **[setup-apple-certificate](https://github.com/Kebechet/setup-apple-certificate)** - GitHub Action to set up Apple Distribution certificates and
+  provisioning profiles
 
 ### Deprecated
 
