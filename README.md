@@ -14,7 +14,7 @@
 > I ship cross-platform apps and maintain production-ready MAUI and Blazor plugins.
 
 ## Connect
-![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Fsamuel_sidor&label=Samuel%20Sidor)
+[![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Fsamuel_sidor&label=Samuel%20Sidor)](https://x.com/samuel_sidor)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Samuel%20Sidor-blue?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/samuel-sidor/)
 [![Stack Overflow](https://img.shields.io/badge/StackOverflow-Kebechet-F48024?logo=stackoverflow)](https://stackoverflow.com/users/6158341/kebechet)
 [![GitHub](https://img.shields.io/badge/-Kebechet-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Kebechet)
