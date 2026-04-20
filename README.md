@@ -10,6 +10,8 @@
 ![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
 ![Web](https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
 ![Windows](https://img.shields.io/badge/OS-Windows-0078D6?logo=windows&logoColor=white)
+![Profile views](https://komarev.com/ghpvc/?username=Kebechet&label=Profile%20views&color=0e75b6&style=flat)
+
 
 > I ship cross-platform apps and maintain production-ready MAUI and Blazor plugins.
 
