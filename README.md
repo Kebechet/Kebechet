@@ -10,7 +10,7 @@
 ![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
 ![Web](https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
 ![Windows](https://img.shields.io/badge/OS-Windows-0078D6?logo=windows&logoColor=white)
-![Profile views](https://komarev.com/ghpvc/?username=Kebechet&label=Profile%20views&color=0e75b6&style=flat)
+
 
 
 > I ship cross-platform apps and maintain production-ready MAUI and Blazor plugins.
@@ -49,11 +49,18 @@
 
 ## Activity
 
+
 <div align="center">
 
-<a align="center" href="https://stackoverflow.com/users/6158341/kebechet" target="_blank">
-    <img src="https://stackoverflow.com/users/flair/6158341.png?theme=dark" width="208" height="58" alt="profile for Kebechet at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Kebechet at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
-</a>
+![Profile views](https://komarev.com/ghpvc/?username=Kebechet&label=Profile%20views&color=0e75b6&style=flat)
+
+
+ <p align="center">
+    <a href="https://stackoverflow.com/users/6158341/kebechet" target="_blank">
+      <img src="https://stackoverflow.com/users/flair/6158341.png?theme=dark" width="208" height="58" alt="Stack
+  Overflow profile for Kebechet" />
+    </a>
+  </p>
 
 <p>
   <img
