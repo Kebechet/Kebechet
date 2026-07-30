@@ -26,15 +26,19 @@
 
 * 💳 **[Maui.RevenueCat](https://github.com/Kebechet/Maui.RevenueCat.InAppBilling)** - RevenueCat for .NET MAUI (shared abstraction + Android/iOS bindings)
 * 📱 **[Maui.MicrosoftClarity](https://github.com/Kebechet/Maui.MicrosoftClarity)** - Microsoft Clarity for .NET MAUI (shared abstraction + Android/iOS bindings)
+* 🔑 **[Maui.CredentialManager](https://github.com/Kebechet/Maui.CredentialManager)** - Unified password credentials and Google/Apple SSO for .NET MAUI
 * 👆 **[Blazor.EventHandlers.LongPress](https://github.com/Kebechet/Blazor.EventHandlers.LongPress)** - Contains `@onlongpress` Blazor event handler
 * 🖱️ **[Blazor.EventHandlers.ShortClick](https://github.com/Kebechet/Blazor.EventHandlers.ShortClick)** - Contains `@onshortclick` Blazor event handler
 * 📊 **[Blazor.ChartJS](https://github.com/Kebechet/Blazor.ChartJS)** - Simple wrapper around Chart.js
+* 🎠 **[Blazor.Swiper](https://github.com/Kebechet/Blazor.Swiper)** - Wrapper around the Swiper touch slider, built on the Swiper Element web component
+* 🔀 **[Blazor.SortableJS](https://github.com/Kebechet/Blazor.SortableJS)** - Typed wrapper around SortableJS for drag-and-drop reordering
 * 🧱 **[Blazor.ClassBuilder](https://github.com/Kebechet/Blazor.ClassBuilder)** - ClassBuilder, StyleBuilder and AttributeBuilder for Blazor components
 * 🎨 **[Blazor.Tabler.Icons](https://github.com/Kebechet/Blazor.Tabler.Icons)** - Tabler Icons for Blazor
 * 🧠 **[Api.ToMcp](https://github.com/Kebechet/Api.ToMcp)** - C# source generator that turns ASP.NET Core endpoints into MCP tools
 * 🧾 **[Api.OData](https://github.com/Kebechet/Api.OData)** - Apply OData query options to `IQueryable` and `IEnumerable`
 * 🧰 **[Extensions.IsNullOrEmpty](https://github.com/Kebechet/Extensions.IsNullOrEmpty)** - `IsNullOrEmpty` for basic types and collections
 * 🧩 **[Types.ObservableHashSet](https://github.com/Kebechet/Types.ObservableHashSet)** - ObservableHashSet extracted from EF repo
+* 🎯 **[Types.Result](https://github.com/Kebechet/Types.Result)** - Minimal `Result` for library authors - closed enum of failures + native exception channel
 * ❤️ **[Maui.Health](https://github.com/Kebechet/Maui.Health)** - Health Connect + HealthKit wrapper (read/write + live workout tracking)
 * 🔐 **[setup-apple-certificate](https://github.com/Kebechet/setup-apple-certificate)** - GitHub Action to set up Apple Distribution certificates and
   provisioning profiles
