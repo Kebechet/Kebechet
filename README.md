@@ -24,29 +24,29 @@
 
 ## Current Projects
 
-* 💳 **[Maui.RevenueCat](https://github.com/Kebechet/Maui.RevenueCat.InAppBilling)** - RevenueCat for .NET MAUI (shared abstraction + Android/iOS bindings)
-* 📱 **[Maui.MicrosoftClarity](https://github.com/Kebechet/Maui.MicrosoftClarity)** - Microsoft Clarity for .NET MAUI (shared abstraction + Android/iOS bindings)
+* 💳 **[Maui.RevenueCat](https://github.com/Kebechet/Maui.RevenueCat.InAppBilling)** - RevenueCat for .NET MAUI (shared abstraction + Android/iOS bindings) [![Downloads](https://img.shields.io/nuget/dt/Kebechet.Maui.RevenueCat.InAppBilling?logo=nuget&label=&color=004880)](https://www.nuget.org/packages/Kebechet.Maui.RevenueCat.InAppBilling)
+* 📱 **[Maui.MicrosoftClarity](https://github.com/Kebechet/Maui.MicrosoftClarity)** - Microsoft Clarity for .NET MAUI (shared abstraction + Android/iOS bindings) [![Downloads](https://img.shields.io/nuget/dt/Kebechet.Maui.MicrosoftClarity?logo=nuget&label=&color=004880)](https://www.nuget.org/packages/Kebechet.Maui.MicrosoftClarity)
 * 🔑 **[Maui.CredentialManager](https://github.com/Kebechet/Maui.CredentialManager)** - Unified password credentials and Google/Apple SSO for .NET MAUI
-* 👆 **[Blazor.EventHandlers.LongPress](https://github.com/Kebechet/Blazor.EventHandlers.LongPress)** - Contains `@onlongpress` Blazor event handler
-* 🖱️ **[Blazor.EventHandlers.ShortClick](https://github.com/Kebechet/Blazor.EventHandlers.ShortClick)** - Contains `@onshortclick` Blazor event handler
-* 📊 **[Blazor.ChartJS](https://github.com/Kebechet/Blazor.ChartJS)** - Simple wrapper around Chart.js
-* 🎠 **[Blazor.Swiper](https://github.com/Kebechet/Blazor.Swiper)** - Wrapper around the Swiper touch slider, built on the Swiper Element web component
-* 🔀 **[Blazor.SortableJS](https://github.com/Kebechet/Blazor.SortableJS)** - Typed wrapper around SortableJS for drag-and-drop reordering
-* 🧱 **[Blazor.ClassBuilder](https://github.com/Kebechet/Blazor.ClassBuilder)** - ClassBuilder, StyleBuilder and AttributeBuilder for Blazor components
-* 🎨 **[Blazor.Tabler.Icons](https://github.com/Kebechet/Blazor.Tabler.Icons)** - Tabler Icons for Blazor
-* 🧠 **[Api.ToMcp](https://github.com/Kebechet/Api.ToMcp)** - C# source generator that turns ASP.NET Core endpoints into MCP tools
-* 🧾 **[Api.OData](https://github.com/Kebechet/Api.OData)** - Apply OData query options to `IQueryable` and `IEnumerable`
-* 🧰 **[Extensions.IsNullOrEmpty](https://github.com/Kebechet/Extensions.IsNullOrEmpty)** - `IsNullOrEmpty` for basic types and collections
-* 🧩 **[Types.ObservableHashSet](https://github.com/Kebechet/Types.ObservableHashSet)** - ObservableHashSet extracted from EF repo
-* 🎯 **[Types.Result](https://github.com/Kebechet/Types.Result)** - Minimal `Result` for library authors - closed enum of failures + native exception channel
-* ❤️ **[Maui.Health](https://github.com/Kebechet/Maui.Health)** - Health Connect + HealthKit wrapper (read/write + live workout tracking)
+* 👆 **[Blazor.EventHandlers.LongPress](https://github.com/Kebechet/Blazor.EventHandlers.LongPress)** - Contains `@onlongpress` Blazor event handler [![Downloads](https://img.shields.io/nuget/dt/Kebechet.Blazor.EventHandlers.LongPress?logo=nuget&label=&color=004880)](https://www.nuget.org/packages/Kebechet.Blazor.EventHandlers.LongPress)
+* 🖱️ **[Blazor.EventHandlers.ShortClick](https://github.com/Kebechet/Blazor.EventHandlers.ShortClick)** - Contains `@onshortclick` Blazor event handler [![Downloads](https://img.shields.io/nuget/dt/Kebechet.Blazor.EventHandlers.ShortClick?logo=nuget&label=&color=004880)](https://www.nuget.org/packages/Kebechet.Blazor.EventHandlers.ShortClick)
+* 📊 **[Blazor.ChartJS](https://github.com/Kebechet/Blazor.ChartJS)** - Simple wrapper around Chart.js [![Downloads](https://img.shields.io/nuget/dt/Kebechet.Blazor.ChartJS?logo=nuget&label=&color=004880)](https://www.nuget.org/packages/Kebechet.Blazor.ChartJS)
+* 🎠 **[Blazor.Swiper](https://github.com/Kebechet/Blazor.Swiper)** - Wrapper around the Swiper touch slider, built on the Swiper Element web component [![Downloads](https://img.shields.io/nuget/dt/Kebechet.Blazor.Swiper?logo=nuget&label=&color=004880)](https://www.nuget.org/packages/Kebechet.Blazor.Swiper)
+* 🔀 **[Blazor.SortableJS](https://github.com/Kebechet/Blazor.SortableJS)** - Typed wrapper around SortableJS for drag-and-drop reordering [![Downloads](https://img.shields.io/nuget/dt/Kebechet.Blazor.SortableJS?logo=nuget&label=&color=004880)](https://www.nuget.org/packages/Kebechet.Blazor.SortableJS)
+* 🧱 **[Blazor.ClassBuilder](https://github.com/Kebechet/Blazor.ClassBuilder)** - ClassBuilder, StyleBuilder and AttributeBuilder for Blazor components [![Downloads](https://img.shields.io/nuget/dt/Kebechet.Blazor.ClassBuilder?logo=nuget&label=&color=004880)](https://www.nuget.org/packages/Kebechet.Blazor.ClassBuilder)
+* 🎨 **[Blazor.Tabler.Icons](https://github.com/Kebechet/Blazor.Tabler.Icons)** - Tabler Icons for Blazor [![Downloads](https://img.shields.io/nuget/dt/Kebechet.Blazor.Tabler.Icons?logo=nuget&label=&color=004880)](https://www.nuget.org/packages/Kebechet.Blazor.Tabler.Icons)
+* 🧠 **[Api.ToMcp](https://github.com/Kebechet/Api.ToMcp)** - C# source generator that turns ASP.NET Core endpoints into MCP tools [![Downloads](https://img.shields.io/nuget/dt/Kebechet.Api.ToMcp?logo=nuget&label=&color=004880)](https://www.nuget.org/packages/Kebechet.Api.ToMcp)
+* 🧾 **[Api.OData](https://github.com/Kebechet/Api.OData)** - Apply OData query options to `IQueryable` and `IEnumerable` [![Downloads](https://img.shields.io/nuget/dt/Kebechet.Api.OData?logo=nuget&label=&color=004880)](https://www.nuget.org/packages/Kebechet.Api.OData)
+* 🧰 **[Extensions.IsNullOrEmpty](https://github.com/Kebechet/Extensions.IsNullOrEmpty)** - `IsNullOrEmpty` for basic types and collections [![Downloads](https://img.shields.io/nuget/dt/Kebechet.Extensions.IsNullOrEmpty?logo=nuget&label=&color=004880)](https://www.nuget.org/packages/Kebechet.Extensions.IsNullOrEmpty)
+* 🧩 **[Types.ObservableHashSet](https://github.com/Kebechet/Types.ObservableHashSet)** - ObservableHashSet extracted from EF repo [![Downloads](https://img.shields.io/nuget/dt/Kebechet.Types.ObservableHashSet?logo=nuget&label=&color=004880)](https://www.nuget.org/packages/Kebechet.Types.ObservableHashSet)
+* 🎯 **[Types.Result](https://github.com/Kebechet/Types.Result)** - Minimal `Result` for library authors - closed enum of failures + native exception channel [![Downloads](https://img.shields.io/nuget/dt/Kebechet.Types.Result?logo=nuget&label=&color=004880)](https://www.nuget.org/packages/Kebechet.Types.Result)
+* ❤️ **[Maui.Health](https://github.com/Kebechet/Maui.Health)** - Health Connect + HealthKit wrapper (read/write + live workout tracking) [![Downloads](https://img.shields.io/nuget/dt/Kebechet.Maui.Health?logo=nuget&label=&color=004880)](https://www.nuget.org/packages/Kebechet.Maui.Health)
 * 🔐 **[setup-apple-certificate](https://github.com/Kebechet/setup-apple-certificate)** - GitHub Action to set up Apple Distribution certificates and
   provisioning profiles
 
 ### Deprecated
 
-* 🪟 **[Blazor.Components.Popup](https://github.com/Kebechet/Blazor.Components.Popup)** - Simple reusable Popup component (deprecated)
-* 🧾 **[Blazor.Components.BottomSheet](https://github.com/Kebechet/Blazor.Components.BottomSheet)** - Simple reusable BottomSheet component (deprecated)
+* 🪟 **[Blazor.Components.Popup](https://github.com/Kebechet/Blazor.Components.Popup)** - Simple reusable Popup component (deprecated) [![Downloads](https://img.shields.io/nuget/dt/Kebechet.Blazor.Components.Popup?logo=nuget&label=&color=004880)](https://www.nuget.org/packages/Kebechet.Blazor.Components.Popup)
+* 🧾 **[Blazor.Components.BottomSheet](https://github.com/Kebechet/Blazor.Components.BottomSheet)** - Simple reusable BottomSheet component (deprecated) [![Downloads](https://img.shields.io/nuget/dt/Kebechet.Blazor.Components.BottomSheet?logo=nuget&label=&color=004880)](https://www.nuget.org/packages/Kebechet.Blazor.Components.BottomSheet)
 
 ## Support my work
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/kebechet)
