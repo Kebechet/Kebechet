@@ -40,6 +40,7 @@
 * 🧩 **[Types.ObservableHashSet](https://github.com/Kebechet/Types.ObservableHashSet)** - ObservableHashSet extracted from EF repo [![Downloads](https://img.shields.io/nuget/dt/Kebechet.Types.ObservableHashSet?logo=nuget&label=&color=004880)](https://www.nuget.org/packages/Kebechet.Types.ObservableHashSet)
 * 🎯 **[Types.Result](https://github.com/Kebechet/Types.Result)** - Minimal `Result` for library authors - closed enum of failures + native exception channel [![Downloads](https://img.shields.io/nuget/dt/Kebechet.Types.Result?logo=nuget&label=&color=004880)](https://www.nuget.org/packages/Kebechet.Types.Result)
 * ❤️ **[Maui.Health](https://github.com/Kebechet/Maui.Health)** - Health Connect + HealthKit wrapper (read/write + live workout tracking) [![Downloads](https://img.shields.io/nuget/dt/Kebechet.Maui.Health?logo=nuget&label=&color=004880)](https://www.nuget.org/packages/Kebechet.Maui.Health)
+* 📦 **[Build.RemoteAssets](https://github.com/Kebechet/Build.RemoteAssets)** - Downloads files at build time and registers them as Content, static web assets, MauiAsset or EmbeddedResource [![Downloads](https://img.shields.io/nuget/dt/Kebechet.Build.RemoteAssets?logo=nuget&label=&color=004880)](https://www.nuget.org/packages/Kebechet.Build.RemoteAssets)
 * 🔐 **[setup-apple-certificate](https://github.com/Kebechet/setup-apple-certificate)** - GitHub Action to set up Apple Distribution certificates and
   provisioning profiles
 
