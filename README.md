@@ -83,6 +83,20 @@
   />
 </p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kebechet&count_private=true&bg_color=232323&icon_color=1aff1a&title_color=1aff1a&text_color=ffffff&count_private=true)
+<a href="https://github.com/Kebechet/github-readme-stats">
+	<picture>
+		<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Kebechet&count_private=true&show_icons=true&hide_border=true&card_width=400&bg_color=ffffff00&theme=github_dark">
+		<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Kebechet&count_private=true&show_icons=true&hide_border=true&card_width=400&bg_color=ffffff00">
+		<img alt="Eugene Fox' GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Kebechet&count_private=true&show_icons=true&hide_border=true&card_width=400&bg_color=ffffff00">
+	</picture>
+</a>
+
+<a href="https://github.com/Kebechet/github-readme-stats">
+	<picture>
+		<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Kebechet&layout=compact&hide_border=true&bg_color=ffffff00&theme=github_dark">
+		<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Kebechet&layout=compact&hide_border=true&bg_color=ffffff00">
+		<img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kebechet&layout=compact&hide_border=true&bg_color=ffffff00">
+	</picture>
+</a>
 
 </div>
