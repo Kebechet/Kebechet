@@ -87,7 +87,7 @@
 	<picture>
 		<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Kebechet&count_private=true&show_icons=true&hide_border=true&card_width=400&bg_color=ffffff00&theme=github_dark">
 		<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Kebechet&count_private=true&show_icons=true&hide_border=true&card_width=400&bg_color=ffffff00">
-		<img alt="Eugene Fox' GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Kebechet&count_private=true&show_icons=true&hide_border=true&card_width=400&bg_color=ffffff00">
+		<img alt="Kebechet's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Kebechet&count_private=true&show_icons=true&hide_border=true&card_width=400&bg_color=ffffff00">
 	</picture>
 </a>
 
