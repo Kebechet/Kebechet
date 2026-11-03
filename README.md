@@ -20,7 +20,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Samuel%20Sidor-blue?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/samuel-sidor/)
 [![Stack Overflow](https://img.shields.io/badge/StackOverflow-Kebechet-F48024?logo=stackoverflow)](https://stackoverflow.com/users/6158341/kebechet)
 [![GitHub](https://img.shields.io/badge/-Kebechet-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Kebechet)
-[![NuGet](https://img.shields.io/badge/NuGet-Kebechet_100k%2B-004880?logo=nuget)](https://www.nuget.org/profiles/Kebechet)
+[![NuGet](https://img.shields.io/badge/NuGet-Kebechet_200k%2B-004880?logo=nuget)](https://www.nuget.org/profiles/Kebechet)
 
 ## Current Projects
 
